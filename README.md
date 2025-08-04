@@ -1,11 +1,8 @@
-# regressao-resistencia-concreto
-Regressão aplicada à Engenharia de Materiais usando Python e Machine Learning.
-
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Predição da Resistência à Compressão do Concreto
 
-Este projeto é parte de um desafio prático de regressão aplicada à Engenharia de Materiais.
+Este projeto é parte de um desafio prático de Regressão aplicada à Engenharia de Materiais usando Python e Machine Learning.
 O objetivo é prever a resistência à compressão de diferentes amostras de concreto com base em sua composição química.
 
 ---
