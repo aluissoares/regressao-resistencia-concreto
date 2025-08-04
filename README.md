@@ -47,8 +47,8 @@ Desenvolver um modelo de Machine Learning capaz de prever a resistência à comp
 
 O modelo final alcançou bons resultados preditivos, com desempenho avaliado por métricas estatísticas de regressão.
 
-MAE: 5.01
-R²: 0.82
+- MAE: 5.01
+- R²: 0.82
 
 ---
 
