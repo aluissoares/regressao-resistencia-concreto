@@ -4,7 +4,7 @@
 
 Este projeto é parte de um desafio prático de Regressão aplicada à Engenharia de Materiais usando Python e Machine Learning.
 O objetivo é prever a resistência à compressão de diferentes amostras de concreto com base em sua composição química.
-   
+
 ---
 
 ## 📊 Objetivo do Projeto
